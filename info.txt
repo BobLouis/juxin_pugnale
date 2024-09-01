@@ -1,0 +1,32 @@
+id:1
+name:"22 Year – New"
+description:"TWO THOUSAND 22 YEAR"
+
+id:2
+name:"23 Year – New Limited Edition"
+description:"TWO THOUSAND 23 YEAR"
+
+id:3
+name:"All – Limited Edition"
+description:"LOVE ALL"
+
+id:4
+name:"Audrey"
+description:"Stylish sunglass with triangular shape made of steel. An acetate inserts is fixed on the front and it gives a strong character. Acetate temples tips and ceramic nose pads are completing this shade."
+
+id:5
+name:"Barry"
+description:"Acetate and steel are combined together in this classical frame. Ceramic nose pads."
+
+id:6
+name:"Biki-Limited Edition"
+description:"The new limited edition of the Biki, model produced in only 73 pieces."
+
+id:7
+name:"Cindy"
+description:"This round sunglasses in four colors of acetate has titanium monoblock temples and nose pads."
+
+id:8
+name:"Dionne"
+description:"Wayfarer frame in acetate with steel side temples and ceramic nose pads."
+
